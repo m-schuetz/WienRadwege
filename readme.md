@@ -13,6 +13,10 @@
 * Doppelseitig geführte Strassen ca. <b>23.8 km</b>. 
 * Gesamtlänge wenn man doppelte Zählung abzieht: 172.7km - 23.8km = <b>148.9 km</b>
 
+<img src="docs/uebersichtskarte.jpg" width="600">
+
+(Grün: Baulich getrennter Radweg; Rot: Alles was die Stadt sonst noch als Radinfrastruktur interpretiert)
+
 # Conclusio
 
 Es scheint als ob die offiziellen Zahlen der Stadt Wien beidseitig geführte Radwege auch doppelt zählen. Die offiziellen zahlen unterscheiden sich allerdings nur um 13.6% von den hier berechneten Werten, die Unterschiede sind also nicht so dramatisch wie ursprünglich erwartet. Insbesondere wurden die Freizeitstrecken entlang der Donau und Donauinsel nicht als Radwege gezählt (da sie keine dedizierten Radwege sind), was die Werte stark inflationär erhöht hätte.
