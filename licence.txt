@@ -1,0 +1,9 @@
+
+# file:         RADWEGEOGD.zip
+# URL:          https://www.data.gv.at/katalog/dataset/stadt-wien_radfahranlagenwien#additional-info
+# licence:      Creative Commons Namensnennung 4.0 International
+# licence by:   Stadt Wien – https://data.wien.gv.at
+# date:         20.01.2023
+
+
+
